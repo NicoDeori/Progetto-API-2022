@@ -1,0 +1,3 @@
+/mnt/c/Users/Utente/Desktop/Progettoalg/Progettoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Utente/Desktop/Progettoalg/Progettoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Utente/Desktop/Progettoalg/Progettoc/cmake-build-debug/CMakeFiles/Progetto_c.dir
